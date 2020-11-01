@@ -17,16 +17,21 @@ weight = 60
 
 - Hae Kyung Im, PhD - [Bio](#about) - [ORCID](https://orcid.org/0000-0003-0333-5685)
 
-- Alvaro Barbeira, MS - [Bio](https://github.com/heroico)
+- Guimin Gao, (PhD) - [Bio](https://health.uchicago.edu/admin/person/guimin-gao)
 
-- Milton Pividori, PhD - [Bio](https://github.com/miltondp) - [ORCID](https://orcid.org/0000-0002-3035-4403)
+- Ian Waters, (PhD, Medical Student) - [Bio](https://github.com/watersia)
+
+- Wanhao Chi, (PhD) - [Bio](https://github.com/wchi1)
 
 - Yanyu Liang (GGSB Grad Student) - [Bio](https://github.com/liangyy)
 
-- Padma Sheila Rajagopal, MD - [Bio](https://github.com/parajago)
+- Festus Nyasimi (MS Bioinformatics) - [Bio](https://github.com/Fnyasimi)
 
-- Josh Jiang (Zhuoxun) - [Bio](https://www.linkedin.com/in/zhuoxun-jiang-63499767/)
+- Natasha Santhanam - [Bio](https://github.com/natashasanthanam)
 
-- Bayle Smith-Salzberg - [Bio](https://www.linkedin.com/in/bayle-smith-salzberg-59b033154/)
+- David Gonzalez-Velez, (Undergrad) - [Bio](https://github.com/DGV98)
 
-- Owen Melia - [Bio](https://github.com/meliao)
+- Sabrina Mi, (Undergrad) - [Bio](https://github.com/sabrina-mi)
+
+- Julius Kim, (Undergrad) - [Bio](https://github.com/theMechanic23/homepage)
+
